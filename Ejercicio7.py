@@ -46,6 +46,9 @@ try:
                 nuevos.append(num)
             else:
                 print("Error...")
+        
+        def total():
+            
 
         def listadogeneral():
             print("Datos a ", time.strftime("%d/%m/%y"))
